@@ -14,9 +14,10 @@
 > > - Docker
 > > - Grpc
 > > - Vue3 
+> > - Ts
 > - 在学
 > > - Java
-
+> > - go-zero
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Three-taile-dragon&show_icons=true&theme=radical&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
