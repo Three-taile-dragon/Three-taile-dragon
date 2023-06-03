@@ -3,7 +3,7 @@
 
 #### 自我介绍
 > - 一个普通大学生，喜好摸鱼 :fish:
-> - 个人博客: [龙龙龙的博客]([https://www.dragonsss.cn](https://www.dragonsss.cn/))
+> - 个人博客: [龙龙龙的博客](https://www.dragonsss.cn/)
 
 #### 技术栈
 > - 熟悉
